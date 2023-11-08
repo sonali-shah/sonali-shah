@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sonali Shah
+### Hi, I'm Sonali Shah 👋
 
 <!--
 **sonali-shah/sonali-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
